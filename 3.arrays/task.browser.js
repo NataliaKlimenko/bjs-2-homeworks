@@ -46,4 +46,3 @@ console.log(getUsersNamesInAgeRange(people, "инопланетянин")); // 0
 
 
 
-module.exports = { compareArrays, getUsersNamesInAgeRange, people };

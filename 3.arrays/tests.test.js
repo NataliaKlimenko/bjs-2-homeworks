@@ -1,3 +1,4 @@
+const { compareArrays, getUsersNamesInAgeRange, people } = require('./task.js');
 
 describe("Домашнее задание к занятию 3 «Массивы»", () => {
   describe("Задача №1 Сравнить массивы", () => {
